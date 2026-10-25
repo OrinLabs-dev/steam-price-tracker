@@ -1,0 +1,9 @@
+config.py
+__pycache__/
+*.pyc
+prices.db
+debug.log
+error_log.txt
+chart.png
+*.egg-info/
+.DS_Store
