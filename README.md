@@ -54,13 +54,9 @@ python chart.py
 ```
 Note: charts become more useful after a few days of price history have been collected.
 
-## Example Output
-*(Add a screenshot of a Telegram price-drop alert and a sample chart here.)*
-
 ## Roadmap
 - [ ] Track games by Steam App ID instead of manual URL entry
 - [ ] Multi-site support (Epic Games Store, GOG)
-- [ ] Monthly summary chart + Telegram notification
 
 ## Notes
 This project is easy to adapt. The scraping, alerting, and scheduling pattern used here can be extended to track prices or data changes on other sites and platforms.
